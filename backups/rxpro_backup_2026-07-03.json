@@ -1,5 +1,5 @@
 {
-  "backup_at": "2026-07-03T14:08:29.569706",
+  "backup_at": "2026-07-03T14:13:10.210309",
   "prescriptions": [
     {
       "id": 1,
@@ -26,6 +26,33 @@
       "referral_to": "",
       "created_at": "2026-07-02 18:25:50.478005+00",
       "updated_at": "2026-07-03 13:56:04.461139+00",
+      "deleted_at": null
+    },
+    {
+      "id": 2,
+      "username": "owner",
+      "rx_number": "RX000002",
+      "patient_name": "Mehedi",
+      "patient_age": "25",
+      "patient_gender": "Male",
+      "patient_phone": "01817658378",
+      "patient_address": "",
+      "patient_weight": "58",
+      "vital_bp": "120/80",
+      "vital_pulse": "",
+      "vital_temp": "",
+      "vital_spo2": "",
+      "vital_height": "",
+      "chief_complaint": "Pain in knee, Pain in hip, Low back pain",
+      "on_examination": "Swelling (+), Tenderness (+), Muscle wasting (+)",
+      "diagnoses": "[\"Lateral Meniscus Tear\", \"Patellofemoral Pain Syndrome\", \"Prepatellar Bursitis\"]",
+      "investigations": "[\"Total Cholesterol\", \"Anti-dsDNA Antibody\"]",
+      "medicines": "[{\"brand\": \"Nacsol\", \"dose\": \"600 mg\", \"duration\": \"\u09ed \u09a6\u09bf\u09a8\", \"freq\": \"\u09e7+\u09e6+\u09e7\", \"generic\": \"Acetylcysteine\", \"id\": 1783016674089, \"instructions\": \"\", \"medType\": \"Tab.\", \"qty\": \"\"}, {\"brand\": \"Napa\", \"dose\": \"500 mg\", \"duration\": \"\u09ed \u09a6\u09bf\u09a8\", \"freq\": \"\u09e7+\u09e6+\u09e7\", \"generic\": \"Paracetamol\", \"id\": 1783016676857, \"instructions\": \"\", \"medType\": \"Tab.\", \"qty\": \"\"}, {\"brand\": \"Demoxiclave Forte\", \"dose\": \"(400 mg+57.50 mg)/5 ml\", \"duration\": \"\u09ed \u09a6\u09bf\u09a8\", \"freq\": \"\u09e7+\u09e6+\u09e7\", \"generic\": \"Amoxicillin + Clavulanic Acid\", \"id\": 1783016684240, \"instructions\": \"\", \"medType\": \"Tab.\", \"qty\": \"\"}, {\"brand\": \"Aldew\", \"dose\": \"400 mg\", \"duration\": \"\u09ed \u09a6\u09bf\u09a8\", \"freq\": \"\u09e7+\u09e6+\u09e7\", \"generic\": \"Albendazole\", \"id\": 1783016689267, \"instructions\": \"\", \"medType\": \"Tab.\", \"qty\": \"\"}, {\"brand\": \"Remave SR\", \"dose\": \"200 mg\", \"duration\": \"\u09ed \u09a6\u09bf\u09a8\", \"freq\": \"\u09e7+\u09e6+\u09e7\", \"generic\": \"Aceclofenac\", \"id\": 1783016694203, \"instructions\": \"\", \"medType\": \"Tab.\", \"qty\": \"\"}, {\"brand\": \"Esonor-20\", \"dose\": \"20 mg\", \"duration\": \"\u09ed \u09a6\u09bf\u09a8\", \"freq\": \"\u09e7+\u09e6+\u09e7\", \"generic\": \"Esomeprazole\", \"id\": 1783016705867, \"instructions\": \"\", \"medType\": \"Tab.\", \"qty\": \"\"}, {\"brand\": \"Wellmet\", \"dose\": \"850 mg\", \"duration\": \"\u09ed \u09a6\u09bf\u09a8\", \"freq\": \"\u09e7+\u09e6+\u09e7\", \"generic\": \"Metformin Hydrochloride\", \"id\": 1783016712595, \"instructions\": \"\", \"medType\": \"Tab.\", \"qty\": \"\"}, {\"brand\": \"Napa Pediatric Drop\", \"dose\": \"80 mg/ml\", \"duration\": \"\u09ed \u09a6\u09bf\u09a8\", \"freq\": \"\u09e7+\u09e6+\u09e7\", \"generic\": \"Paracetamol\", \"id\": 1783016730739, \"instructions\": \"\", \"medType\": \"Drops\", \"qty\": \"\"}]",
+      "general_advice": "\u09ac\u09bf\u09b6\u09cd\u09b0\u09be\u09ae \u09a8\u09bf\u09a8 \u098f\u09ac\u0982 \u09ac\u09cd\u09af\u09a5\u09be\u09b0 \u09b8\u09cd\u09a5\u09be\u09a8\u09c7 \u099a\u09be\u09aa \u09a6\u09c7\u09ac\u09c7\u09a8 \u09a8\u09be\u0964\n\u09a8\u09bf\u09af\u09bc\u09ae\u09bf\u09a4 \u09ab\u09bf\u099c\u09bf\u0993\u09a5\u09c7\u09b0\u09be\u09aa\u09bf \u0995\u09b0\u09c1\u09a8\u0964\n\u0995\u09cd\u09af\u09be\u09b2\u09b8\u09bf\u09af\u09bc\u09be\u09ae \u0993 \u09ad\u09bf\u099f\u09be\u09ae\u09bf\u09a8-\u09a1\u09bf \u09b8\u09ae\u09c3\u09a6\u09cd\u09a7 \u0996\u09be\u09ac\u09be\u09b0 \u0996\u09be\u09a8\u0964",
+      "followup_date": "",
+      "referral_to": "",
+      "created_at": "2026-07-03 14:09:44.951648+00",
+      "updated_at": "2026-07-03 14:09:44.951648+00",
       "deleted_at": null
     }
   ],
